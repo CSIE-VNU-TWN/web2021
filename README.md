@@ -4,6 +4,9 @@
 
 ## 參考作品連結:
 
+1. BMI和體脂計算器, created Date: 2021/02/14, [連結](https://horacec371.github.io/)   
+
+2. 使用Hugo建立個人網站, 建立日期: 2021/02/15, [連結](https://hc1973.github.io/)
 
 
 ## 建立日期: 2021.10.07
