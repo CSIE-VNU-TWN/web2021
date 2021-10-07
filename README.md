@@ -8,6 +8,8 @@
 
 2. 使用Hugo建立個人網站, 建立日期: 2021/02/15, [連結](https://hc1973.github.io/)
 
+3. 努力中 ...
+
 ---
 
 [助教: Amazing Grace](https://www.youtube.com/watch?v=HsCp5LG_zNE)
