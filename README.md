@@ -12,6 +12,12 @@
 
 3. GitHYour site is published at https://grace-ta.github.io/web2021/
 
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/136738903-13e53cb1-7bd9-4b6d-9ac6-72c3b5aac574.png" 
+      width="50%" height="50%">
+    </div>
+
 4. 努力中 (Undergoing) ...
 
 ---
