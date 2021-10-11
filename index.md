@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Grace-TA/web2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 您可以使用 GitHub 上的編輯器在 Markdown 文件中維護和預覽您網站的[內容](https://github.com/Grace-TA/web2021/edit/gh-pages/index.md)。每當您提交到此存儲庫時，GitHub Pages 都會運行 Jekyll 從您的 Markdown 文件中的內容重建您站點中的頁面。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown 是一種輕量級且易於使用的語法，用於為您的寫作設置樣式。 它包括以下約定: (可直接在網站中使用Markdown語法, 太好了! 可以一招闖江湖)
 
 ```markdown
 Syntax highlighted code block
@@ -17,23 +15,14 @@ Syntax highlighted code block
 
 ## 參考作品連結:
 
-- Bulleted
-- List
+- 進行中 ...
+- 進行中 ...
 
-1. Numbered
-2. List
+1. 進行中 ...
+2. 進行中 ...
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Grace-TA/web2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://pages.github.com/images/slideshow/facebookdesign.png
