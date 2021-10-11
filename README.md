@@ -10,7 +10,7 @@
 
 2. 測試: Yahoo Taiwan, 建立日期: 2021/02/15, [連結](www.yahoo.com.tw)
 
-3. GitHYour site is published at https://grace-ta.github.io/web2021/
+3. GitHub-Setting: Your site is published at https://grace-ta.github.io/web2021/
 
 <div align="center">
      <img 
