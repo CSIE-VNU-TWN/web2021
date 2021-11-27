@@ -8,7 +8,7 @@
 
 > GitHub Pages是GitHub提供的一個網頁代管服務，於2008年推出[1][2]。可以用於存放靜態網頁，包括部落格、項目文檔[3][1]甚至整本書。[4]Jekyll軟體可以用於將文檔轉換成靜態網頁，該軟體提供了將網頁上傳到GitHub Pages的功能。[5]一般GitHub Pages的網站使用github.io的子域名，但是用戶也可以使用第三方域名。
 
-2. 測試: Yahoo Taiwan, 建立日期: 2021/02/15, [連結](www.yahoo.com.tw)
+2. 測試: Yahoo Taiwan, 建立日期: 2021/02/15, [連結](https://www.yahoo.com.tw/)
 
 3. GitHub Pages: Your site is published at https://grace-ta.github.io/web2021/
 
